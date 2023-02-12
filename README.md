@@ -2,15 +2,12 @@
 # WYSIWYG-HTML-Editors
 ---
 
-
 <img src="image.png"
      alt="image"/>
 
 
-
 <img src="picture.png"
      alt="picture"/>
-
 
 
 
