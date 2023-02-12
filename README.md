@@ -1,28 +1,16 @@
 
-# Email Validation Check by JavaScript
+# WYSIWYG-HTML-Editors
 ---
 
 
-<img src="Email-Validation-Check-by-JavaScript.png"
-     alt="Email Validation Check by JavaScript"/>
+<img src="image.png"
+     alt="image"/>
 
 
 
+<img src="picture.png"
+     alt="picture"/>
 
-# You have entered an invalid email address
----
-
-
-<img src="check_01.png"
-     alt="Email Validation Check by JavaScript"/>
-
-
-     # You have entered an valid email address
----
-
-
-<img src="check_02.png"
-     alt="Email Validation Check by JavaScript"/>
 
 
 
